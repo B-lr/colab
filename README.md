@@ -17,6 +17,8 @@ And the factor of leap year is identified and removed in this section
   The code extracts record highs/lows from past years.
   It computes 2015’s highs/lows separately and  aligns indices to allow comparison.
   It identifies record-breaking temperatures in 2015.
-
-
+### plotting the graph
+The record high and low temperatures are plotted as two separate lines and the area between them is shaded.
+The points in the 2015 data where the ten-year record (2005–2014) for highs or lows was broken was identified and marked as scatter plot.
+The temperature given in tenths of degrees C is converted back to degree C and plotted.
 
