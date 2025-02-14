@@ -15,8 +15,7 @@ The data is filtered to required range from 2005 to 2014
 And the factor of leap year is identified and removed in this section
 ### logic applied
   The code extracts record highs/lows from past years.
-  It computes 2015’s highs/lows separately.
-  It aligns indices to allow comparison.
+  It computes 2015’s highs/lows separately and  aligns indices to allow comparison.
   It identifies record-breaking temperatures in 2015.
 
 
